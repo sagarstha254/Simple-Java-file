@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Staff
+comment1.params=Staff_id\ Staff_Name
+comment1.target=Staff(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getStaff_id()
+comment2.text=initializing\ getter\ method
+comment3.params=
+comment3.target=java.lang.String\ getStaff_Name()
+comment4.params=
+comment4.target=java.lang.String\ getStaff_Address()
+comment5.params=Staff_Address
+comment5.target=void\ setStaff_Address(java.lang.String)
+comment5.text=initializing\ setter\ method
+comment6.params=
+comment6.target=void\ display()
+comment6.text=constructing\ display\ method
+numComments=7
